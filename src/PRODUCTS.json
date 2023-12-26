@@ -1,0 +1,70 @@
+[
+    {
+      "id": "1",
+      "name": "Christmas Tree",
+      "rating": 4.7,
+      "description": "A lush green tree perfect for creating a festive atmosphere in your home.",
+      "price": 120.00,
+      "colors": [
+        {"name": "Green", "hex": "#008000"}
+      ],
+      "sizes": ["small", "medium", "large"]
+    },
+    {
+      "id": "2",
+      "name": "Christmas Bells",
+      "rating": 4.3,
+      "description": "Golden bells that chime with the joy of the season.",
+      "price": 100.00,
+      "colors": [
+        {"name": "Gold", "hex": "#FFD700"}
+      ],
+      "sizes": ["medium"]
+    },
+    {
+      "id": "3",
+      "name": "Gingerbread",
+      "rating": 4.6,
+      "description": "Sweet and spiced gingerbread cookies that are as delightful to eat as they are to look at.",
+      "price": 90.00,
+      "colors": [
+        {"name": "Brown", "hex": "#A52A2A"}
+      ],
+      "sizes": ["small", "medium"]
+    },
+    {
+      "id": "4",
+      "name": "Candy",
+      "rating": 4.2,
+      "description": "Classic striped candy canes to sweeten up your holiday season.",
+      "price": 130.00,
+      "colors": [
+        {"name": "Red", "hex": "#FF0000"},
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "sizes": ["small"]
+    },
+    {
+      "id": "5",
+      "name": "Pinecones & Berries",
+      "rating": 4.5,
+      "description": "Decorated with red berries and mini pinecones; 16 inches long; Add to Christmas trees, wreaths, centerpieces, bouquets, ...",
+      "price": 150.00,
+      "colors": [
+        {"name": "Green", "hex": "#008000"},
+        {"name": "Red", "hex": "#FF0000"}
+      ],
+      "sizes": ["16cm", "20cm", "22cm", "25cm"]
+    },
+    {
+      "id": "6",
+      "name": "Snowman",
+      "rating": 4.8,
+      "description": "A cheerful snowman to brighten up your lawn or living room.",
+      "price": 180.00,
+      "colors": [
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "sizes": []
+    }
+  ]

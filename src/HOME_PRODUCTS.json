@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "name": "Pinecones & Berries",
+      "rating": 4.5,
+      "description": "Decorated with red berries and mini pinecones; 16 inches long; Add to Christmas trees, wreaths, centerpieces, bouquets, ...",
+      "price": 150.00,
+      "colors": [
+        {"name": "Green", "hex": "#008000"},
+        {"name": "Red", "hex": "#FF0000"}
+      ],
+      "sizes": ["16cm", "20cm", "22cm", "25cm"]
+    },
+    {
+      "id": "2",
+      "name": "Snowman",
+      "rating": 4.8,
+      "description": "A cheerful snowman to brighten up your lawn or living room.",
+      "price": 180.00,
+      "colors": [
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "sizes": []
+    },
+    {
+      "id": "3",
+      "name": "Candy",
+      "rating": 4.2,
+      "description": "Classic striped candy canes to sweeten up your holiday season.",
+      "price": 130.00,
+      "colors": [
+        {"name": "Red", "hex": "#FF0000"},
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "sizes": ["small"]
+    },
+    {
+      "id": "4",
+      "name": "Christmas Tree",
+      "rating": 4.7,
+      "description": "A lush green tree perfect for creating a festive atmosphere in your home.",
+      "price": 120.00,
+      "colors": [
+        {"name": "Green", "hex": "#008000"}
+      ],
+      "sizes": ["small", "medium", "large"]
+    }
+  ]
